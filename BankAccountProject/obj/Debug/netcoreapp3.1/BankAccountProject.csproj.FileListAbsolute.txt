@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\BankAccountProject\bin\Debug\netcoreapp3.1\BankAccountProject.exe
+C:\Users\user\source\repos\BankAccountProject\bin\Debug\netcoreapp3.1\BankAccountProject.deps.json
+C:\Users\user\source\repos\BankAccountProject\bin\Debug\netcoreapp3.1\BankAccountProject.runtimeconfig.json
+C:\Users\user\source\repos\BankAccountProject\bin\Debug\netcoreapp3.1\BankAccountProject.runtimeconfig.dev.json
+C:\Users\user\source\repos\BankAccountProject\bin\Debug\netcoreapp3.1\BankAccountProject.dll
+C:\Users\user\source\repos\BankAccountProject\bin\Debug\netcoreapp3.1\BankAccountProject.pdb
+C:\Users\user\source\repos\BankAccountProject\obj\Debug\netcoreapp3.1\BankAccountProject.csprojAssemblyReference.cache
+C:\Users\user\source\repos\BankAccountProject\obj\Debug\netcoreapp3.1\BankAccountProject.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BankAccountProject\obj\Debug\netcoreapp3.1\BankAccountProject.AssemblyInfo.cs
+C:\Users\user\source\repos\BankAccountProject\obj\Debug\netcoreapp3.1\BankAccountProject.dll
+C:\Users\user\source\repos\BankAccountProject\obj\Debug\netcoreapp3.1\BankAccountProject.pdb
